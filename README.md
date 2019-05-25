@@ -30,6 +30,7 @@ We will take Ubuntu for example.
 * Python library dependencies
 ```
 $ pip install nltk
+$ pip install protobuf
 ```
 
 * [stanford coreNLP 3.7.0](http://stanfordnlp.github.io/CoreNLP/) and its [python wrapper](https://github.com/stanfordnlp/stanza). Please put the library under `CoType/code/DataProcessor/'.
