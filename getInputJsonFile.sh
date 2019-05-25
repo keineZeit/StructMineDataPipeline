@@ -10,7 +10,7 @@ bcOutDir='./data/brown-out'
 bcOutOrigFile='./data/brown-out/paths'
 bcOutFile='./data/brown'
 parseTool='stanford' #'nltk' or 'stanford'
-testOnly=false
+testOnly=true
 freebaseDir='./freebase'
 
 if [ "$testOnly" = false ] ; then

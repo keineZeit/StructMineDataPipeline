@@ -7,3 +7,8 @@ DataProcessor/stanford-corenlp-python/
 Intermediate/*
 Results/*
 Data/BBN/*
+code/freebase*
+data/freebase*
+freebase*
+code/stanford*
+code/stanza*
